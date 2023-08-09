@@ -12,7 +12,7 @@ let smallDelay = Math.floor(Math.random() * 10000) + 3000; // Random delay betwe
   const page = await browser.newPage();
   let pageNum = 1;
   let startWithProfile = true;
-  let state = "CT"; // NY, PA, CT, TX, CA, FL, CO, GA, IL, OR, WA
+  let state = "CT"; //NJ,  NY, PA, CT, TX, CA, FL, CO, GA, IL, OR, WA
   // await page.goto("https://doulamatch.net/list/birth/ny/1", {
   // await page.goto("https://doulamatch.net/list/birth/nj/1", {
   await page.goto(`https://doulamatch.net/list/birth/${state}/${pageNum}`, {
