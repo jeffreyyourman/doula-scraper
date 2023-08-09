@@ -1,0 +1,10 @@
+Name: michelle-tighe
+Website: https://empoweredbirthtx.com
+Number: 920-751-8094
+
+Name: candace-mensik-cd-dona-spbcpe
+Website: https://transcendentbirth.com
+emailLinksArr: candace@transcendentbirth.com
+websiteEmailsArr: candace@transcendentbirth.com
+Number: 7136288465
+
