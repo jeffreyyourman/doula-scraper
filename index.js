@@ -5,14 +5,15 @@ const fs = require("fs");
 // let delay = 10000; // Random delay between 5 and 15 seconds
 // let smallDelay = 10000; // Random delay between 5 and 15 seconds
 let delay = Math.floor(Math.random() * 10000) + 5000; // Random delay between 5 and 15 seconds
-let smallDelay = Math.floor(Math.random() * 10000) + 3000; // Random delay between 5 and 15 seconds
+let smallDelay = Math.floor(Math.random() * 10000) + 5000; // Random delay between 5 and 15 seconds
+let xsDelay = Math.floor(Math.random() * 7000) + 1000; // Random delay between 5 and 15 seconds
 
 (async () => {
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
-  let pageNum = 1;
+  let pageNum = 8;
   let startWithProfile = true;
-  let state = "CT"; //NJ,  NY, PA, CT, TX, CA, FL, CO, GA, IL, OR, WA
+  let state = "NY"; //NJ:2,  NY, PA, CT, TX, CA, FL, CO, GA, IL, OR, WA
   // await page.goto("https://doulamatch.net/list/birth/ny/1", {
   // await page.goto("https://doulamatch.net/list/birth/nj/1", {
   await page.goto(`https://doulamatch.net/list/birth/${state}/${pageNum}`, {
@@ -23,7 +24,7 @@ let smallDelay = Math.floor(Math.random() * 10000) + 3000; // Random delay betwe
   let doulaProfilesSet = new Set();
 
   while (hasNextPage) {
-    await new Promise((resolve) => setTimeout(resolve, delay));
+    await new Promise((resolve) => setTimeout(resolve, smallDelay));
 
     const doulaProfiles = await page.$$eval(".search-result-doula a", (links) =>
       links.map((a) => a.href)
@@ -34,14 +35,43 @@ let smallDelay = Math.floor(Math.random() * 10000) + 3000; // Random delay betwe
     }
 
     for (let profile of doulaProfilesSet) {
-      await new Promise((resolve) => setTimeout(resolve, delay));
+      await new Promise((resolve) => setTimeout(resolve, xsDelay));
 
       await page.goto(profile, { waitUntil: "networkidle0" });
+      await new Promise((resolve) => setTimeout(resolve, delay));
 
-      const profileTextNav = await page.$eval(
-        ".profilenav",
-        (div) => div.innerText
-      );
+      // const profileTextNav = await page.$eval(
+      //   ".profilenav",
+      //   (div) => div.innerText
+      // );
+      console.log("profile", profile);
+      let profileTextNav;
+      try {
+        profileTextNav = await page.$eval(
+          ".profilenav",
+          (div) => div.innerText
+          );
+          console.log("profileTextNav", profileTextNav);
+      } catch (error) {
+        console.error("An error occurred:", error);
+
+        const content = await page.content();
+
+        if (content.includes("<h2>Quota Exceeded</h2>")) {
+          console.error("Quota Exceeded error found on the page");
+          // await page.screenshot({
+          //   path: `./dataCollection/screenshots/${state}/errors/quotaexceeded.png`,
+          // });
+          await browser.close();
+        } else {
+          console.log("Quota Exceeded error not found on the page");
+          // await page.screenshot({
+          //   path: `./dataCollection/screenshots/${state}/errors/failedtogetnav${profile
+          //     .split("/")
+          //     .pop()}.png`,
+          // });
+        }
+      }
 
       const profileTextTestimonials = await page.$$eval(
         ".row.testimonial",
@@ -64,7 +94,7 @@ let smallDelay = Math.floor(Math.random() * 10000) + 3000; // Random delay betwe
         `./dataCollection/dataList/${state}/${profile.split("/").pop()}.txt`,
         allProfileTexts
       );
-      await new Promise((resolve) => setTimeout(resolve, delay));
+      await new Promise((resolve) => setTimeout(resolve, smallDelay));
 
       let doulaName = profile.split("/").pop();
       let entries = [];
@@ -98,127 +128,166 @@ let smallDelay = Math.floor(Math.random() * 10000) + 3000; // Random delay betwe
       }
       if (websites.length > 0) {
         console.log("websites", websites);
-        await new Promise((resolve) => setTimeout(resolve, delay));
+        await new Promise((resolve) => setTimeout(resolve, smallDelay));
 
         // Click on the website and look for the email
-        await page.goto(websites[0], { waitUntil: "networkidle0" });
+        // await page.goto(websites[0], { waitUntil: "networkidle0" });
+        try {
+          // await page.goto('https://www.comfortcaredoula.com', { waitUntil: "networkidle0" });
+          await page.goto(websites[0], { waitUntil: "networkidle0" });
+          // await new Promise((resolve) => setTimeout(resolve, smallDelay));
 
-        // const emailLinks = await page.$$eval('a[href^="mailto:"]', (links) =>
-        //   links.map((link) => link.getAttribute("href").replace("mailto:", ""))
-        // );
-
-        // if (emailLinks.length > 0) {
-        //   console.log(emailLinks); // This will output an array of email addresses
-        //   // entries.push(`mailtoLinks: ${emailLinks}`)
-        //   emailLinks.forEach((emailLink) =>
-        //     entries.push(`emailLinksArr: ${emailLink}`)
-        //   );
-        // }
-
-        // const instagramLinks = await page.$$eval(
-        //   'a[href*="instagram.com"]',
-        //   (links) => links.map((link) => link.getAttribute("href"))
-        // );
-
-        // if (instagramLinks.length > 0) {
-        //   console.log(instagramLinks); // This will output an array of Instagram URLs
-        //   instagramLinks.forEach((instagramLink) =>
-        //     entries.push(`instagramLinksArr: ${instagramLink}`)
-        //   );
-        // }
-        const emailLinks = await page.$$eval('a[href^="mailto:"]', (links) =>
-          links.map((link) => link.getAttribute("href").replace("mailto:", ""))
-        );
-
-        const uniqueEmailLinks = [...new Set(emailLinks)];
-
-        if (uniqueEmailLinks.length > 0) {
-          console.log(uniqueEmailLinks); // This will output an array of unique email addresses
-          uniqueEmailLinks.forEach((emailLink) =>
-            entries.push(`emailLinksArr: ${emailLink}`)
+          const emailLinks = await page.$$eval('a[href^="mailto:"]', (links) =>
+            links.map((link) =>
+              link.getAttribute("href").replace("mailto:", "")
+            )
           );
-        }
 
-        const instagramLinks = await page.$$eval(
-          'a[href*="instagram.com"]',
-          (links) => links.map((link) => link.getAttribute("href"))
-        );
+          const uniqueEmailLinks = [...new Set(emailLinks)];
 
-        const uniqueInstagramLinks = [...new Set(instagramLinks)];
-
-        if (uniqueInstagramLinks.length > 0) {
-          console.log(uniqueInstagramLinks); // This will output an array of unique Instagram URLs
-          uniqueInstagramLinks.forEach((instagramLink) =>
-            entries.push(`instagramLinksArr: ${instagramLink}`)
-          );
-        }
-
-        // Search for email on the page
-        let websiteEmails = await page.$$eval("body", (bodyElements) => {
-          let regex = /\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b/g;
-          return bodyElements[0].innerText.match(regex) || [];
-        });
-
-        websiteEmails.forEach((webEmail) =>
-          entries.push(`websiteEmailsArr: ${webEmail}`)
-        );
-
-        console.log("websiteEmails", websiteEmails);
-
-        if (websiteEmails.length === 0) {
-          // Look for various contact page link variants and navigate
-          // const selectors = [
-          //   'a[href*="contact"]',
-          //   'a:contains("Contact Us")',
-          //   'a:contains("Contact Me")',
-          //   // ... any other variations
-          // ];
-
-          // let contactLink;
-          // for (const selector of selectors) {
-          //   contactLink = await page.$(selector);
-          //   if (contactLink) {
-          //     break;
-          //   }
-          // }
-
-          const selector = 'a[href*="contact"]';
-          const contactLink = await page.$(selector);
-
-          if (contactLink) {
-            const href = await page.evaluate(
-              (el) => el.getAttribute("href"),
-              contactLink
-            );
-
-            // Extract the base URL from the current page URL
-            const baseURL = new URL(await page.url()).origin;
-
-            // Create an absolute URL
-            const absoluteURL = new URL(href, baseURL).href;
-
-            // Navigate using the absolute URL
-            await new Promise((resolve) => setTimeout(resolve, delay));
-
-            await page.goto(absoluteURL, { waitUntil: "networkidle0" });
-
-            const websiteEmails2 = await page.$$eval("body", (bodyElements) => {
-              const regex = /\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b/g;
-              return bodyElements[0].innerText.match(regex) || [];
-            });
-            console.log("websiteEmails 2", websiteEmails2);
-
-            // I noticed you're referencing websiteEmailsContactArr, but it doesn't seem to be defined anywhere in the given code.
-            // Did you mean websiteEmails2?
-            websiteEmails2.forEach((email) =>
-              entries.push(`websiteEmailsContactArr: ${email}`)
+          if (uniqueEmailLinks.length > 0) {
+            console.log(uniqueEmailLinks); // This will output an array of unique email addresses
+            uniqueEmailLinks.forEach((emailLink) =>
+              entries.push(`emailLinksArr: ${emailLink}`)
             );
           }
+
+          const instagramLinks = await page.$$eval(
+            'a[href*="instagram.com"]',
+            (links) => links.map((link) => link.getAttribute("href"))
+          );
+
+          const uniqueInstagramLinks = [...new Set(instagramLinks)];
+
+          if (uniqueInstagramLinks.length > 0) {
+            console.log(uniqueInstagramLinks); // This will output an array of unique Instagram URLs
+            uniqueInstagramLinks.forEach((instagramLink) =>
+              entries.push(`instagramLinksArr: ${instagramLink}`)
+            );
+          }
+
+          // Search for email on the page
+          let websiteEmails = await page.$$eval("body", (bodyElements) => {
+            let regex = /\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b/g;
+            return bodyElements[0].innerText.match(regex) || [];
+          });
+          const uniqueWebsiteEmails = [...new Set(websiteEmails)];
+
+          uniqueWebsiteEmails.forEach((webEmail) =>
+            entries.push(`websiteEmailsArr: ${webEmail}`)
+          );
+
+          console.log("websiteEmails", websiteEmails);
+
+          if (websiteEmails.length === 0) {
+            const selector = 'a[href*="contact"]';
+            const contactLink = await page.$(selector);
+
+            if (contactLink) {
+              const href = await page.evaluate(
+                (el) => el.getAttribute("href"),
+                contactLink
+              );
+
+              // Extract the base URL from the current page URL
+              const baseURL = new URL(await page.url()).origin;
+
+              // Create an absolute URL
+              const absoluteURL = new URL(href, baseURL).href;
+              console.log("before  contact page", absoluteURL);
+
+              await new Promise((resolve) => setTimeout(resolve, smallDelay));
+              console.log("went to contacsmallDelaye");
+
+              try {
+                await page.goto(absoluteURL, {
+                  waitUntil: "networkidle0",
+                  timeout: 60000,
+                });
+                console.log("Navigated to contact page");
+              } catch (error) {
+                console.error(
+                  "Error while navigating to contact page:",
+                  error.message
+                );
+                await page.screenshot({
+                  path: `./dataCollection/screenshots/${state}/errors/${profile
+                    .split("/")
+                    .pop()}navigatingtodoulawebcontact.png`,
+                });
+              }
+              await new Promise((resolve) => setTimeout(resolve, smallDelay));
+
+              try {
+                const websiteEmails2 = await page.$$eval(
+                  "a, div, span, p",
+                  (elements) => {
+                    console.log("elements", elements);
+                    const regex = /\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b/g;
+                    const emails = [];
+
+                    elements.forEach((element) => {
+                      const text = element.innerText;
+                      const matches = text.match(regex);
+                      if (matches) {
+                        emails.push(...matches);
+                      }
+                    });
+
+                    return emails;
+                  }
+                );
+
+                console.log("websiteEmails 2", websiteEmails2);
+                const uniqueWebsiteEmailsContactPage = [
+                  ...new Set(websiteEmails2),
+                ];
+
+                uniqueWebsiteEmailsContactPage.forEach((email) =>
+                  entries.push(`websiteEmailsContactArr: ${email}`)
+                );
+
+                console.log("push email");
+              } catch (error) {
+                console.error(
+                  "Error while pushimg emails to contact page:",
+                  error.message
+                );
+                await page.screenshot({
+                  path: `./dataCollection/screenshots/${state}/errors/${profile
+                    .split("/")
+                    .pop()}gatheringdoulawebcontactemails.png`,
+                });
+              }
+            }
+          }
+          // Rest of your code after successful navigation
+        } catch (error) {
+          console.error("navigatingtodoulaweb:", error.message);
+          try {
+            await page.goto(profile, { waitUntil: "networkidle0" });
+          } catch (error) {
+            console.error(`Failed to navigate to profile: ${error}`);
+          }
+          // try {
+          //   await page.screenshot({
+          //     path: `./dataCollection/screenshots/${state}/errors/${profile
+          //       .split("/")
+          //       .pop()}navigatingtodoulaweb.png`,
+          //   });
+          //   await page.goto(profile, { waitUntil: "networkidle0" });
+          // } catch (error) {
+          //   console.error(
+          //     "An error occurred while taking a screenshot for error:",
+          //     error
+          //   );
+          //   await page.goto(profile, { waitUntil: "networkidle0" });
+          // }
         }
 
         // Add the website's emails to the existing list of emails
         // emails = [...emails, ...websiteEmails];
-        await new Promise((resolve) => setTimeout(resolve, delay));
+        await new Promise((resolve) => setTimeout(resolve, smallDelay));
 
         // Return to the original profile
         await page.goto(profile, { waitUntil: "networkidle0" });
@@ -243,10 +312,12 @@ let smallDelay = Math.floor(Math.random() * 10000) + 3000; // Random delay betwe
         );
       }
 
-      await new Promise((resolve) => setTimeout(resolve, delay));
+      await new Promise((resolve) => setTimeout(resolve, smallDelay));
 
       await page.screenshot({
-        path: `./screenshots/${state}/${profile.split("/").pop()}.png`,
+        path: `./dataCollection/screenshots/${state}/${profile
+          .split("/")
+          .pop()}.png`,
       });
 
       await new Promise((resolve) => setTimeout(resolve, smallDelay));
@@ -263,10 +334,11 @@ let smallDelay = Math.floor(Math.random() * 10000) + 3000; // Random delay betwe
 
     if (nextPageLink) {
       pageNum = pageNum + 1;
+      console.log(`going to page ${pageNum}`);
       await page.screenshot({
         path: `./dataCollection/screenshots/${state}/${pageNum}.png`,
       });
-      await new Promise((resolve) => setTimeout(resolve, delay));
+      await new Promise((resolve) => setTimeout(resolve, smallDelay));
       await page.goto(nextPageLink, { waitUntil: "networkidle0" });
     } else {
       hasNextPage = false;
@@ -275,7 +347,7 @@ let smallDelay = Math.floor(Math.random() * 10000) + 3000; // Random delay betwe
     doulaProfilesSet.clear();
   }
 
-  // await page.screenshot({ 
+  // await page.screenshot({
   //   path: `./screenshots/${state}/browser_close.png`,
   // });
 

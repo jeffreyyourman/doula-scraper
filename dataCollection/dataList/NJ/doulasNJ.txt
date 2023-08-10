@@ -1,0 +1,90 @@
+Name: keely-fruin
+Website: https://www.picklesandicecreamdoula.com
+instagramLinksArr: http://instagram.com/KeelyFruin
+websiteEmailsArr: Keely@PicklesandIceCreamDoula.com
+Number: 8563136195
+
+Name: rosalia-tisch
+Website: https://www.lifesjourneydoula.com
+websiteEmailsArr: LifesJourneyDoulaLLC@gmail.com
+
+Name: julie-dibella
+Website: https://douladibella.wixsite.com/douladibella
+emailLinksArr: douladibella@yahoo.com
+websiteEmailsArr: douladibella@yahoo.com
+Number: 6092216201
+
+Name: maria-vesper-cd-cbi-hchd
+Website: https://bloomdoulabirth.com
+Number: 908-280-0844
+Email: Mariavesperdoula@gmail.com
+
+Name: emily-mcmichael-aahcc-clc-cd-dona-hbce-llll
+Website: https://www.bundleofjoybirth.com
+emailLinksArr: info@bundleofjoybirth.com
+instagramLinksArr: http://www.instagram.com/bundleofjoybirth
+websiteEmailsArr: info@bundleofjoybirth.com
+Number: 201) 993-5355
+
+Name: bloom-baby-doulas
+Website: https://www.bloombabydoulas.com
+instagramLinksArr: https://www.instagram.com/bloombabydoulas/
+websiteEmailsArr: Info@BloomBabyDoulas.com
+Number: 973) 559-7221
+
+Name: cheryl-klugmann
+Website: https://www.mybodymybirth.com
+Number: 845)652-0344
+
+Name: shanita-joy-murray-rn-bsn-cd-cpd-cbc-cbe-cpne
+Website: https://www.iamchoosingjoy.net
+instagramLinksArr: https://www.instagram.com/thee_rndoula/
+Number: 9084564187
+
+Name: victoria-elias-cd-dona
+Website: https://www.nurturedmotherhood.org
+emailLinksArr: NurturedMotherhood@aol.com
+instagramLinksArr: https://www.instagram.com/nurturedmotherhoodllc/
+websiteEmailsArr: NurturedMotherhood@aol.com
+Number: 973-997-6257
+
+Name: india-williams-certified-doulamasters-level-clinician
+Website: https://gennisidoula.net
+emailLinksArr: indiagennisidoula@gmail.com
+instagramLinksArr: https://instagram.com/gennisi_doula?utm_medium=copy_link
+websiteEmailsArr: indiagennisidoula@gmail.com
+Number: 8565628916
+
+Name: elyse-breit-cd-dona
+Website: https://breitbirthworks.com
+emailLinksArr: breitbirthworks@gmail.com
+websiteEmailsArr: breitbirthworks@gmail.com
+Number: 908-875-0210
+
+Name: marianne-pane
+Website: http://www.eastwestdoula.com
+Number: 551.252.4977
+
+Name: jhenielle-reynolds-cd-dona
+Website: https://www.bloommamabirth.com
+emailLinksArr: jhenielle@bloommamabirth.com?subject=Doula%20Inquiry
+instagramLinksArr: http://instagram.com/bloommamabirthnj
+websiteEmailsArr: jhenielle@bloommamabirth.com
+Number: 551-751-1310
+
+Name: jasmine-ehanire
+Website: https://www.nehizenawellness.com
+emailLinksArr: contact@nehizenawellness.com
+instagramLinksArr: https://www.instagram.com/nehizenawellness/?igshid=YmMyMTA2M2Y=
+websiteEmailsArr: contact@nehizenawellness.com
+
+Name: luipa-khandker
+
+Name: hayley-weichler-cd-l-cbe
+Website: https://www.doulanjpa.com
+instagramLinksArr: http://instagram.com/compassionatebeginningsdoula
+Number: 9087976268
+
+Name: lauren-tyler
+Number: 619.228.4062
+
