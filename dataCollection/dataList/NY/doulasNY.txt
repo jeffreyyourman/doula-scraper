@@ -558,12 +558,7 @@ websiteEmailsArr: INFO@WISEWOMBANDOULA.COM
 Number: 917-310-4754
 
 
-
-
-____________________page8-err___________________
-
-
-Name: tanesha-clenkian
+____________________page8___________________
 
 Name: jennyfer-huerta-lucero
 Website: http://lucerodoulaservices.com
@@ -608,20 +603,213 @@ Number: 718-781-0798
 
 Name: madison-jennings
 
-____________________page8-redo___________________
-Name: tanesha-clenkian
+Name: staci-soares
+Website: https://staciandcompany.com
+Number: 5304870575
 
-Name: jennyfer-huerta-lucero
-Website: http://lucerodoulaservices.com
-Number: 914-434-6399
+Name: wendy-cruz-chan-cd-dti-cbe-pes-ncs-cst-ba
+Website: https://wendysdoulaservices.com
+instagramLinksArr: https://www.instagram.com/wendysdoula
+websiteEmailsContactArr: filler@godaddy.comMy
+websiteEmailsContactArr: filler@godaddy.com
+Number: 347-320-0044
 
-Name: sharon-mcdermott
-Website: http://www.healthyhealingli.com
-Number: 5164104297
+Name: jomina-joseph
+Website: https://www.welcominghands.com
+instagramLinksArr: http://instagram.com/welcominghandsbirthingservices
+websiteEmailsArr: jomina@welcominghands.com
+Number: 929) 324-7931
 
-Name: tanesha-clenkian
+Name: anna-carapetyan
+Website: http://www.heartandmindbirth.com
+instagramLinksArr: https://www.instagram.com/annacarapetyan/
+websiteEmailsArr: anna.carapetyan.doula@gmail.com
+Email: sramirez22@Gmail.com
 
-Name: jennyfer-huerta-lucero
-Website: http://lucerodoulaservices.com
-Number: 914-434-6399
+Name: olga-zinner
+Website: https://www.yourcherish.com/birth-doula-new-york-manhattan-nj
+emailLinksArr: olga@yourcherish.com?subject=Doula%20Services&cc=olgzinner%40gmail.com&bcc=love%40yourcheirsh.com
+emailLinksArr: olga@yourcherish.com?cc=love%40yourcherish.com
+emailLinksArr: olga@yourcherish.com?subject=Birth%20Videography&cc=love%40yourcherish.com
+emailLinksArr: olga@yourcherish.com?cc=olgzinner%40gmail.com&bcc=love%40yourcherish.com&subject=Doula%20support
+emailLinksArr: love@yourcherish.com?subject=Ask%20a%20question
+instagramLinksArr: https://www.instagram.com/yourcherishphoto
+websiteEmailsArr: love@yourcherish.com
+Number: 3472634267
+
+Name: regina-brandao-haynes-cd-cbe-dti
+Website: http://www.doulaarte.com
+websiteEmailsContactArr: regina@doulaarte.com
+Number: 917-939-4380
+
+Name: jeanny-jorge-med
+
+Name: kayla-foxen-cd-dona
+Website: http://soulpathdoula.com
+Number: 805-705-9443
+
+Name: jamie-daniels-bogert
+Website: https://www.themagicofbirth.com
+emailLinksArr: themagicofbirth.com
+
+Name: angelica-kennedy
+Website: https://kennedydoula.com
+emailLinksArr: kennedydoula@gmail.com?subject=Doula%20Services%20Inquiry
+instagramLinksArr: https://www.instagram.com/kennedydoula/
+websiteEmailsArr: kennedydoula@gmail.com
+Number: 6462206300
+
+Name: sarah-castle
+Website: https://www.facebook.com/divinetidesdoula
+Number: 7164675499
+
+Name: anjanette-silas
+Website: https://www.birthandbeyond-nyc.com
+emailLinksArr: info@birthandbeyondnyc.com
+instagramLinksArr: https://www.instagram.com/birthandbeyond_nyc/
+instagramLinksArr: https://www.instagram.com/p/CukZD_pJN7D/
+instagramLinksArr: https://www.instagram.com/p/CuUeauJgZb_/
+instagramLinksArr: https://www.instagram.com/p/CuPU5ONgzVr/
+instagramLinksArr: https://www.instagram.com/p/Cr_UJNngKnv/
+websiteEmailsArr: info@birthandbeyondnyc.com
+
+Name: cristina-morales-vega
+Website: http://www.daringdoula.com
+emailLinksArr: daringdoula21@gmail.com
+instagramLinksArr: https://www.instagram.com/daringdoulallc
+instagramLinksArr: https://www.instagram.com/reel/CdcWdqSsw-n/?igshid=YmMyMTA2M2Y%3D
+
+Name: jocelyn-araujo
+Website: https://www.thewholelisticdoula.com
+
+Name: sharon-penn
+Number: 5164292389
+
+Name: emily-harding-lmt-clc-cd-pcd-cbe-ncs
+Website: https://hardinghatchlings.com
+instagramLinksArr: https://www.instagram.com/ihatched/
+websiteEmailsContactArr: Emily@HardingHatchlings.com
+
+Name: raychel-franzen-cd-dona-clc-lcce
+Website: https://rkdoulas.com
+instagramLinksArr: http://WWW.instagram.com/rkdoulas
+
+Name: katherine-koncelik
+Website: https://nurturing-way.com
+emailLinksArr: doulaclc@gmail.com
+instagramLinksArr: https://www.instagram.com/the_nurturing_way/
+websiteEmailsArr: doulaclc@gmail.com
+Number: 631) 581-1066
+
+Name: elizabeth-addeo-cd-dona-lcce
+Website: https://www.afterglowalbanybirth.com
+emailLinksArr: liz.leue@gmail.com
+instagramLinksArr: https://www.instagram.com/afterglowalbanybirth/?hl=en
+websiteEmailsArr: liz.leue@gmail.com
+Number: 518)727-7634
+
+Name: tinaya-jean
+Website: https://instagram.com/yourhooddoula
+instagramLinksArr: https://l.instagram.com/?u=https%3A%2F%2Fhdnyc.as.me%2F&e=AT3yGQLwKj2D0gEeDb7DI1_qxncBoBecQ5O-Tr6f4XPyZte2n89rHb0vK7RV28Pk8WIOZLmanShpbHBYDQ159XSm6-oZJ_KG
+instagramLinksArr: https://about.instagram.com/
+instagramLinksArr: https://about.instagram.com/blog/
+instagramLinksArr: https://help.instagram.com/
+instagramLinksArr: https://l.instagram.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F261704639352628&e=AT3Sx-9k1Ot-4w4NPEKShVsgDSgu2Hm3Fu11b0KcsIgEuGxFfgpQXaEn-HQIZzDkMH-mn9UMKaoG2m1vyRU2SWHXBVR5hJp9NSSBgnY1fnC5dtdnaQ8KWb6kUa9I34cY_rBqVXR6K49JJWA-T6qy97Tc29g
+instagramLinksArr: /accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fyourhooddoula%2F&source=logged_out_half_sheet
+
+Name: christine-luis
+Number: 347.295.5971
+
+Name: natasha-pimentel
+Number: 9173990817
+
+Name: silvie-falschlunger
+Website: http://birth-in-motion.com
+emailLinksArr: scfalschlunger@optonline.net
+websiteEmailsArr: scfalschlunger@optonline.net
+Number: 914) 522-6980
+
+Name: angela-payne
+Number: 585-448-5390
+
+Name: nancy-chase
+Website: http://www.chaseyour-dreams.com
+websiteEmailsContactArr: chasen62@gmail.com
+Number: 8458007917
+
+Name: danielle-bianco
+Website: http://www.belovedbirthandbaby.com
+emailLinksArr: Danielle@belovedbirthing.com
+instagramLinksArr: https://www.instagram.com/hudson_valley_doula/?hl=en
+Number: 8454998116
+
+Name: krystil-hofsky
+Website: https://www.adoringdoulas.com
+emailLinksArr: adoringdoulas@gmail.com?subject=Thank you for reaching out to the Adoring Doulas! We will get back to you within 48 hours. 
+instagramLinksArr: https://www.instagram.com/adoringdoulas
+
+Name: jennifer-reynoso-ng
+Website: http://www.waterlilybirthing.com
+instagramLinksArr: https://www.instagram.com/jenn.reynosong
+
+Name: beloved-birth-baby-boutique-wellness
+Website: https://www.belovedbirthandbaby.com
+emailLinksArr: Danielle@belovedbirthing.com
+instagramLinksArr: https://www.instagram.com/hudson_valley_doula/?hl=en
+
+Name: shamina-rao-cd-dona-ibclc-ryt
+Website: http://www.shaminarao.com
+instagramLinksArr: https://www.instagram.com/shaminarao/
+Number: 9177436144
+
+Name: wylia-mcleod
+Number: 518-512-9467
+
+Name: julia-berch
+
+Name: shirin-lowell
+Website: https://shirins.love
+emailLinksArr: shirinjlowell@gmail.com
+Number: 2036059984
+
+Name: kerri-evers
+Website: https://www.doulasistersnyc.com
+instagramLinksArr: https://www.instagram.com/thedoulasisters_/
+websiteEmailsContactArr: Doulasistersnyc@gmail.com
+Number: 7189268015
+
+Name: nyc-birth-village-doulas
+Website: https://nycbirthvillage.com
+
+Name: franshesca-deakino
+Number: 347-856-1148
+
+Name: ruthie-romero
+Website: https://linktr.ee/ruthierochelle
+emailLinksArr: rochelleruthie@gmail.com
+instagramLinksArr: https://instagram.com/handwavesbirth?igshid=YmMyMTA2M2Y=
+instagramLinksArr: https://instagram.com/rochelle.ruthie
+Number: 5856905139
+
+Name: catie-cushing
+Website: http://bestnestbirthwork.com
+
+Name: viviana-marcela-imbachi
+Number: 5162704732
+
+Name: kate-soloff
+Website: http://www.doulak8.com
+emailLinksArr: katesoloff84@gmail.com
+instagramLinksArr: https://www.instagram.com/doulak8/
+websiteEmailsArr: katesoloff84@gmail.com
+
+Name: ronelle-mark
+Number: 929) 263-2034
+
+Name: shannon-wildflower-thompson
+
+Name: abby-block-cd-cm-ibclc-lcce
+Website: http://www.abbyblock.com
+emailLinksArr: AbbyDoulaNYC@gmail.com
+instagramLinksArr: http://instagram.com/abby.doula
 
