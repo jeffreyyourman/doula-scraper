@@ -8,9 +8,9 @@ let xsDelay = Math.floor(Math.random() * 10000) + 5000;
 (async () => {
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
-  let pageNum = 14;
+  let pageNum = 1;
   let startWithProfile = true;
-  let state = "CA"; //NJ:DONE,  NY:DONE, PA:DONE, CT:DONE, TX, CA:DONE, FL, CO, GA, IL, OR, WA
+  let state = "TX"; //NJ:DONE,  NY:DONE, PA:DONE, CT:DONE, TX, CA:DONE, FL, CO, GA, IL, OR, WA
 
   await page.goto(`https://doulamatch.net/list/birth/${state}/${pageNum}`, {
     waitUntil: "networkidle0",
