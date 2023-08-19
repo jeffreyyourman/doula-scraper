@@ -1,0 +1,362 @@
+Name: shelby-meadows
+Website: https://sageandsouldoula.com
+instagramLinksArr: https://www.instagram.com/sageandsouldoula/
+instagramLinksArr: https://www.instagram.com/p/CvyBvkhJRsv/
+instagramLinksArr: https://www.instagram.com/reel/CvuVS1OA2tS/
+instagramLinksArr: https://www.instagram.com/reel/CvqlvN0AX-O/
+Number: 8608538646
+
+Name: jennese-birritteri
+Website: https://www.blessed-journey.com
+emailLinksArr: jennese@blessed-journey.com
+instagramLinksArr: https://www.instagram.com/blessedjourney_doulaservices/
+websiteEmailsArr: jennese@blessed-journey.com
+Number: 8608089073
+
+Name: sheila-toal
+Website: https://www.facebook.com/doula-by-your-side-birth-postpartum-and-bereavement-doula-services-378712926255792/?modal=admin_todo_tour
+websiteEmailsArr: sheiladoula19@gmail.com
+Number: 860.508.6714
+
+Name: andreina-alvarez
+Website: https://www.themommydoula.com
+emailLinksArr: andreina@themommydoula.com
+emailLinksArr: Andreina@TheMommyDoula.com?subject=Client%20Inquiry
+instagramLinksArr: https://www.instagram.com/themommydoula/
+
+Name: jenn-edmonds
+Website: http://www.thesupportedbirth.com
+instagramLinksArr: https://www.instagram.com/thesupportedbirth/?hl=en
+websiteEmailsContactArr: TSBdoula@gmail.com
+Number: 860) 559-5066
+
+Name: elizabeth-guerra-ryt-clc
+
+Name: teresa-piazza-cd-pcd-dona-clcccbe-mommatdoula
+Website: https://mommatdoula.com
+emailLinksArr: MommaTDoula@gmail.com
+websiteEmailsArr: MommaTDoula@gmail.com
+Number: 9192448410
+
+Name: allison-petrides-cld-cpd
+Website: http://www.gentlebeginningsdoula.com
+emailLinksArr: allison@gentlebeginningsdoula.com
+instagramLinksArr: https://www.instagram.com/gentle_beginnings_doula/
+websiteEmailsArr: allison@gentlebeginningsdoula.com
+Number: 2034424277
+
+Name: melissa-duenas-witter
+Website: https://www.diaryofadoula.com
+instagramLinksArr: http://instagram.com/diaryofadoula
+Number: 8608903970
+
+Name: chelsea-da-paz
+Website: https://www.doulachelsea.com
+emailLinksArr: doulachelseacare@gmail.com?subject=I'd like to know more
+emailLinksArr: doulachelseacare@gmail.com?subject=More info please!
+instagramLinksArr: https://www.instagram.com/doulachelsea?igshid=YmMyMTA2M2Y=
+instagramLinksArr: https://instagram.com/doulachelsea?igshid=YmMyMTA2M2Y
+websiteEmailsArr: doulachelseacare@gmail.com
+
+Name: hannah-valley-miller
+Website: https://www.hannahthedoula.com
+emailLinksArr: contact@hannahthedoula.com
+websiteEmailsArr: contact@hannahthedoula.com
+Number: 8608404197
+
+Name: emily-fiorentino
+Number: 203-253-2148
+
+Name: emily-reisner
+Website: https://www.doulalunact.com
+emailLinksArr: emily.reisner@gmail.com
+instagramLinksArr: http://instagram.com/createbythemoon
+
+Name: theresa-davis
+Website: https://www.kiwidoula.com
+emailLinksArr: teri@kiwidoula.com
+websiteEmailsArr: teri@kiwidoula.com
+Number: 203-300-3931
+
+Name: dorie-calos
+Website: http://douladorie.com
+emailLinksArr: douladorie@gmail.com
+instagramLinksArr: https://www.instagram.com/douladorie/
+instagramLinksArr: https://www.instagram.com/douladorie
+websiteEmailsArr: douladorie@gmail.com
+Number: 860-977-3034
+
+Name: ashante-jackson-pusey
+
+Name: shelby-meadows
+Website: https://sageandsouldoula.com
+instagramLinksArr: https://www.instagram.com/sageandsouldoula/
+instagramLinksArr: https://www.instagram.com/p/CvyBvkhJRsv/
+instagramLinksArr: https://www.instagram.com/reel/CvuVS1OA2tS/
+instagramLinksArr: https://www.instagram.com/reel/CvqlvN0AX-O/
+Number: 8608538646
+
+Name: jenn-edmonds
+Website: http://www.thesupportedbirth.com
+instagramLinksArr: https://www.instagram.com/thesupportedbirth/?hl=en
+websiteEmailsContactArr: TSBdoula@gmail.com
+Number: 860) 559-5066
+
+Name: hannah-valley-miller
+Website: https://www.hannahthedoula.com
+emailLinksArr: contact@hannahthedoula.com
+websiteEmailsArr: contact@hannahthedoula.com
+Number: 8608404197
+
+Name: theresa-davis
+Website: https://www.kiwidoula.com
+emailLinksArr: teri@kiwidoula.com
+websiteEmailsArr: teri@kiwidoula.com
+Number: 203-300-3931
+
+Name: sheila-toal
+Website: https://www.facebook.com/doula-by-your-side-birth-postpartum-and-bereavement-doula-services-378712926255792/?modal=admin_todo_tour
+websiteEmailsArr: sheiladoula19@gmail.com
+Number: 860.508.6714
+
+Name: andreina-alvarez
+Website: https://www.themommydoula.com
+emailLinksArr: andreina@themommydoula.com
+emailLinksArr: Andreina@TheMommyDoula.com?subject=Client%20Inquiry
+instagramLinksArr: https://www.instagram.com/themommydoula/
+
+Name: colleen-myatt-cd-pcd-dona-clc-pes-icce
+Website: https://beautifulbirthsandbeyond.com
+instagramLinksArr: https://www.instagram.com/beautifulbirths/
+websiteEmailsContactArr: gentlebirth4u@gmail.com
+Number: 203-435-6695
+
+Name: dorie-calos
+Website: http://douladorie.com
+emailLinksArr: douladorie@gmail.com
+instagramLinksArr: https://www.instagram.com/douladorie/
+instagramLinksArr: https://www.instagram.com/douladorie
+websiteEmailsArr: douladorie@gmail.com
+Number: 860-977-3034
+
+Name: jennese-birritteri
+Website: https://www.blessed-journey.com
+emailLinksArr: jennese@blessed-journey.com
+instagramLinksArr: https://www.instagram.com/blessedjourney_doulaservices/
+websiteEmailsArr: jennese@blessed-journey.com
+Number: 8608089073
+
+Name: elizabeth-guerra-ryt-clc
+
+Name: teresa-piazza-cd-pcd-dona-clcccbe-mommatdoula
+Website: https://mommatdoula.com
+emailLinksArr: MommaTDoula@gmail.com
+websiteEmailsArr: MommaTDoula@gmail.com
+Number: 9192448410
+
+Name: allison-petrides-cld-cpd
+Website: http://www.gentlebeginningsdoula.com
+emailLinksArr: allison@gentlebeginningsdoula.com
+instagramLinksArr: https://www.instagram.com/gentle_beginnings_doula/
+websiteEmailsArr: allison@gentlebeginningsdoula.com
+Number: 2034424277
+
+Name: melissa-duenas-witter
+Website: https://www.diaryofadoula.com
+instagramLinksArr: http://instagram.com/diaryofadoula
+Number: 8608903970
+
+Name: chelsea-da-paz
+Website: https://www.doulachelsea.com
+emailLinksArr: doulachelseacare@gmail.com?subject=I'd like to know more
+emailLinksArr: doulachelseacare@gmail.com?subject=More info please!
+instagramLinksArr: https://www.instagram.com/doulachelsea?igshid=YmMyMTA2M2Y=
+instagramLinksArr: https://instagram.com/doulachelsea?igshid=YmMyMTA2M2Y
+websiteEmailsArr: doulachelseacare@gmail.com
+
+Name: emily-fiorentino
+Number: 203-253-2148
+
+Name: emily-reisner
+Website: https://www.doulalunact.com
+emailLinksArr: emily.reisner@gmail.com
+instagramLinksArr: http://instagram.com/createbythemoon
+
+Name: ashante-jackson-pusey
+
+Name: bethany-wallace
+Website: https://www.bethanykatewellness.com
+instagramLinksArr: https://www.instagram.com/bethanykatewellness/
+
+Name: heather-yanovitch
+Website: http://thedoulagranny.com
+instagramLinksArr: https://instagram.com/thedoulagranny
+
+Name: kaitlyn-reed-cd-dona-cpd-ri
+Website: https://deepwatersdoula.com
+emailLinksArr: deepwatersdoula@gmail.com
+instagramLinksArr: https://www.instagram.com/deepwatersdoula/
+Number: 860-758-2777
+
+Name: shannon-kent
+Website: http://getadoula.com
+emailLinksArr: shankent6@gmail.com
+websiteEmailsArr: shankent6@gmail.com
+Number: 8605085491
+
+Name: robin-dini
+Website: https://www.withinmotherhood.com
+instagramLinksArr: https://www.instagram.com/withinmotherhood/
+instagramLinksArr: https://www.instagram.com/p/CvLaBtWPQ3t/
+instagramLinksArr: https://www.instagram.com/p/CvH3b-tNi25/
+instagramLinksArr: https://www.instagram.com/p/Cu96klYtq09/
+instagramLinksArr: https://www.instagram.com/p/Cu9dY9xPUOj/
+instagramLinksArr: https://www.instagram.com/p/Cu7unMOPQ-S/
+instagramLinksArr: https://www.instagram.com/p/Cu5jcpLPPbB/
+instagramLinksArr: https://www.instagram.com/p/Cuy40CAOXHm/
+instagramLinksArr: https://www.instagram.com/reel/CupI9wLRuUG/
+instagramLinksArr: https://www.instagram.com/p/Cuc9Yj6PQ6J/
+instagramLinksArr: https://www.instagram.com/p/CuXcfisPln2/
+instagramLinksArr: https://www.instagram.com/p/CuUtn2GLzKr/
+instagramLinksArr: https://www.instagram.com/p/CuFZuRfPIyy/
+instagramLinksArr: https://www.instagram.com/p/Ct2AVF7xPT8/
+instagramLinksArr: https://www.instagram.com/p/CtxEebwRHeA/
+instagramLinksArr: https://www.instagram.com/p/CtuOgpzPSFx/
+instagramLinksArr: https://www.instagram.com/p/CtS9wvOMGum/
+instagramLinksArr: https://www.instagram.com/p/CtRveJZN34w/
+instagramLinksArr: https://www.instagram.com/p/CtL20Dss39E/
+instagramLinksArr: https://www.instagram.com/p/CtHFZp7vcKF/
+instagramLinksArr: https://www.instagram.com/p/Cs_xOXGutdm/
+instagramLinksArr: https://www.instagram.com/p/Cs9dyyZNgwu/
+instagramLinksArr: https://www.instagram.com/p/CszXYfrvMNG/
+instagramLinksArr: https://www.instagram.com/p/Cstc6fjPkWC/
+instagramLinksArr: https://www.instagram.com/p/Csq0qVdxf7d/
+instagramLinksArr: https://www.instagram.com/p/CskCWmZJuP6/
+instagramLinksArr: https://www.instagram.com/p/CsRUK4yusHE/
+instagramLinksArr: https://www.instagram.com/p/CsL2iedtvAc/
+instagramLinksArr: https://www.instagram.com/p/CsJzRrZP2L8/
+instagramLinksArr: https://www.instagram.com/p/CsGs1WQtkcO/
+instagramLinksArr: https://www.instagram.com/p/CsE3qEmsLaP/
+instagramLinksArr: https://www.instagram.com/p/CsBjIcfOWIT/
+instagramLinksArr: https://www.instagram.com/p/Cr-6sUtOTr4/
+instagramLinksArr: https://www.instagram.com/p/Cr50od5uK7Q/
+instagramLinksArr: https://www.instagram.com/p/Cr31aALu_ws/
+instagramLinksArr: https://www.instagram.com/p/Cr0q7f2uIul/
+instagramLinksArr: https://www.instagram.com/p/CryCnh-uprN/
+instagramLinksArr: https://www.instagram.com/p/Crv624-ty7R/
+instagramLinksArr: https://www.instagram.com/p/CrtcDEtpypP/
+instagramLinksArr: https://www.instagram.com/p/Crtbnn0JZst/
+instagramLinksArr: https://www.instagram.com/p/CrtZidspyB1/
+instagramLinksArr: https://www.instagram.com/p/CrtZL0Zpk9I/
+instagramLinksArr: https://www.instagram.com/p/CrtY7IPJQlC/
+instagramLinksArr: https://www.instagram.com/p/CrtYYVrp7p2/
+instagramLinksArr: https://www.instagram.com/p/CrtXcdALy4W/
+instagramLinksArr: https://www.instagram.com/p/CrlLwkttufP/
+instagramLinksArr: https://www.instagram.com/p/CripQwWOF9Y/
+instagramLinksArr: https://www.instagram.com/p/Cqv0jjbvOB8/
+instagramLinksArr: https://www.instagram.com/p/CqtRTMbLujo/
+instagramLinksArr: https://www.instagram.com/p/CqV7vz6LRE_/
+instagramLinksArr: https://www.instagram.com/p/CqRbV3PLwha/
+instagramLinksArr: https://www.instagram.com/
+websiteEmailsContactArr: robindini@gmail.com
+Number: 203-915-9658
+
+Name: miriam-hurvitz
+Website: http://www.glowingbirth.net
+
+Name: sooo-z-mastropietro-cd-dona-clc-cbe
+Website: https://sooozdoula.com
+emailLinksArr: sooozdoula@gmail.com
+instagramLinksArr: http://instagram.com/sooozdoula/
+websiteEmailsArr: sooozdoula@gmail.com
+Number: 2035360651
+
+Name: katherine-sperling
+
+Name: alexis-vatteroni
+Website: http://nourishthrivedoula.com
+emailLinksArr: alexisvatteroni@gmail.com
+instagramLinksArr: https://www.instagram.com/alexisvatteroni/
+websiteEmailsArr: alexisvatteroni@gmail.com
+Number: 860-324-5472
+
+Name: kendall-pfiester
+Number: 860-202-1591
+
+Name: nishante-pearson
+Website: https://www.instagram.com/nurturedbynishante
+instagramLinksArr: https://l.instagram.com/?u=http%3A%2F%2Fnurturedbynishante.com%2F&e=AT1AFXd6O6ujz2sG6r4dt-07YRoR-P91dPSbAl7k43tvdVXi4mPn-iiXyek8OOB9Kjrmq7EJQuR5wna0bpcL4MBBQ_fXnJJK
+instagramLinksArr: https://about.instagram.com/
+instagramLinksArr: https://about.instagram.com/blog/
+instagramLinksArr: https://help.instagram.com/
+instagramLinksArr: https://l.instagram.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F261704639352628&e=AT0CTdaNg1YYdMk-uKXhqbSawj007CXZMFZVhok1N87dWf7gPzGffzbmlUQC3gg0f6Ov5u3CGF_kFk1e4CVUJx71eWKkSKUlyqiBEcp_EwGggvIpVrIEGdLCX_5l03M88p0iSYn4_vRBM6GfZ70YJBFNKo8
+instagramLinksArr: /accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fnurturedbynishante%2F&source=logged_out_half_sheet
+Number: 8603338688
+
+Name: dana-oakes-sand-as-cce-mcd-nmpp-ipes
+Website: http://www.rusheschildbirth.com
+emailLinksArr: danaspeople@charter.net
+websiteEmailsArr: danaspeople@charter.net
+Number: 860-921-4371
+
+Name: jean-molot
+
+Name: nicole-peluso
+Website: http://www.birthbungalow.com
+emailLinksArr: info@birthbungalow.com
+websiteEmailsArr: info@birthbungalow.com
+Number: 203-529-1533
+
+Name: jenn-porter
+Website: http://www.tranquilitydoulact.com
+emailLinksArr: jenn@tranquilitydoulact.com
+Number: 8607106827
+
+Name: birth-tribe-doula-collaborative
+Website: https://www.yourbirthtribe.com
+instagramLinksArr: https://www.instagram.com/yourbirthtribe/
+Number: 8608903970
+
+Name: megan-mccleary-way
+Website: https://www.soulshinedoulaservices.com
+instagramLinksArr: https://www.instagram.com/soulshinedoulaservices/?hl=en
+websiteEmailsArr: Info@soulshinedoulaservices.com
+
+Name: samantha-heenan
+Website: https://www.pixiedustbirthservices.com
+emailLinksArr: info@pixiedustbirthservices.com
+instagramLinksArr: https://instagram.com/wix/
+websiteEmailsArr: info@pixiedustbirthservices.com
+Number: 203-306-8165
+
+Name: jennifer-dzen
+Website: http://www.companionsinbirth.com
+emailLinksArr: Jenniferdoulact@gmail.com
+websiteEmailsArr: Jenniferdoulact@gmail.com
+Number: 860-490-2300
+
+Name: tamara-davis
+Website: https://tamara-davis-8dd3.mykajabi.com
+instagramLinksArr: https://www.instagram.com/kajabi
+websiteEmailsContactArr: themotherhoodshift22@gmail.com
+Number: 8608980157
+
+Name: chelsea-white-cld-cpd-ecdao
+Website: http://thechristiandoulaexpc.com
+emailLinksArr: speakoutkids@therapy.net
+instagramLinksArr: https://www.instagram.com/deloucci/
+websiteEmailsArr: info@TheChristianDoulaExpc.com
+websiteEmailsArr: Info@TheChristianDoulaExpc.com
+Number: 929 412 2909
+
+Name: sakeena-roberts
+
+Name: ashley-murcia
+Number: 860) 617-9184
+
+Name: kirsten-vogt
+Website: https://kvdoula.weebly.com
+emailLinksArr: kvogt127@gmail.com
+websiteEmailsArr: KVOGT127@GMAIL.COM
+Number: 973-699-6133
+

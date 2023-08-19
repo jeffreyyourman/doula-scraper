@@ -137,7 +137,6 @@ Name: ryann-summers
 Name: ethel-tally-ms-hcdc-ryt-rpyt
 Number: 9293335416
 
-____________________page3___________________
 
 Name: daisy-veloz
 Number: 6463020000
@@ -206,7 +205,6 @@ instagramLinksArr: https://www.instagram.com/wildlovedoula/?hl=en
 websiteEmailsContactArr: info@birthdoulany.com
 Number: 6466780454
 
-____________________page4___________________
 Name: lindsay-salamone
 Website: http://www.fertile-roots.com
 emailLinksArr: lindsay@fertile-roots.com
@@ -558,7 +556,6 @@ websiteEmailsArr: INFO@WISEWOMBANDOULA.COM
 Number: 917-310-4754
 
 
-____________________page8___________________
 
 Name: jennyfer-huerta-lucero
 Website: http://lucerodoulaservices.com
@@ -812,4 +809,269 @@ Name: abby-block-cd-cm-ibclc-lcce
 Website: http://www.abbyblock.com
 emailLinksArr: AbbyDoulaNYC@gmail.com
 instagramLinksArr: http://instagram.com/abby.doula
+
+Name: ruthie-romero
+Website: https://linktr.ee/ruthierochelle
+emailLinksArr: rochelleruthie@gmail.com
+instagramLinksArr: https://instagram.com/handwavesbirth?igshid=YmMyMTA2M2Y=
+instagramLinksArr: https://instagram.com/rochelle.ruthie
+Number: 5856905139
+
+Name: catie-cushing
+Website: http://bestnestbirthwork.com
+
+Name: viviana-marcela-imbachi
+Number: 5162704732
+
+Name: kate-soloff
+Website: http://www.doulak8.com
+emailLinksArr: katesoloff84@gmail.com
+instagramLinksArr: https://www.instagram.com/doulak8/
+websiteEmailsArr: katesoloff84@gmail.com
+
+Name: ronelle-mark
+Number: 929) 263-2034
+
+Name: shannon-wildflower-thompson
+
+Name: abby-block-cd-cm-ibclc-lcce
+Website: http://www.abbyblock.com
+emailLinksArr: AbbyDoulaNYC@gmail.com
+instagramLinksArr: http://instagram.com/abby.doula
+
+Name: federica-biondo
+Website: http://www.mydoulafede.com
+emailLinksArr: mydoulafede@gmail.com
+instagramLinksArr: http://www.instagram.com/mydoulafede
+
+Name: briani-george
+Website: http://doulabriani.wixsite.com/home
+Website: https://calendly.com/doulabriani/30min
+Number: 9292244987
+
+Name: krista-volpe
+Website: http://www.frombumptobaby.com
+instagramLinksArr: http://instagram.com/frombumptobabyny
+websiteEmailsContactArr: krista@frombumptobaby.com
+Number: 8459881079
+
+Name: anna-georgoulas
+Website: https://www.dovelydoula.com
+emailLinksArr: dovelydoula@gmail.com
+instagramLinksArr: https://www.instagram.com/dovelydoula/
+Number: 3475490210
+
+Name: kat-raynor
+Website: https://www.motherling.com/p
+Number: 6467074801
+
+Name: genevieve-bergeret
+Website: http://www.brightdaydoula.com
+
+Name: elizabeth-casasnovas-calderon-lcce-cd-clc-ryt
+Website: http://www.beaconbirth.com
+instagramLinksArr: http://www.instagram.com/beaconbirth/
+websiteEmailsArr: beaconbirth@gmail.com
+Number: 347-400-8094
+
+Name: angelica-greskiewicz
+Website: http://www.adventuretobirth.com
+emailLinksArr: Hello@adventuretobirth.com
+emailLinksArr: Hellobaby@adventuretobirth.com
+instagramLinksArr: https://www.instagram.com/adventure_to_birth/
+websiteEmailsArr: Hellobaby@adventuretobirth.com
+
+Name: jane-frost
+Website: https://www.janefrostdoula.com
+instagramLinksArr: https://www.instagram.com/janefrostdoula/
+
+Name: audrey-turgeman
+Website: http://thefrenchdoula.net
+emailLinksArr: thefrenchdoula@gmail.com
+instagramLinksArr: /_link/?link=https%3A%2F%2Fwww.instagram.com%2Fthefrenchdoula_nyc%2F&target=%2BFENJBpzK60g8iYt97PIvc2ACOYx5uoUeL8P3BuTQDDCcwu9g2LN%2F%2Blo6J%2F2MyYuzwqF3oGUqewy4Ah%2BqbfkBsuxHsP5iwoU0Xt7SgnJtDP8yggN1%2BL8GTtinj0h%2B0MrEQ%3D%3D&iv=KFTo5UL2lQ7Nscxa
+websiteEmailsArr: thefrenchdoula@gmail.com
+Number: 646-301-5208
+
+Name: mary-petersen
+Website: https://www.midnightballetbirth.com
+Number: 707-495-4211
+
+Name: marina-angelicola-cd-dti-clc
+Website: https://www.mamamarinabirth.com
+emailLinksArr: marina@mamamarinabirth.com
+instagramLinksArr: https://www.instagram.com/mama_marina_birthservices/
+
+Name: ebone-gedeon
+Website: https://www.ebthedoula.com
+instagramLinksArr: https://instagram.com/squarespace
+Number: 3479865090
+
+Name: dorothy-zittel
+Number: 646-867-4008
+
+Name: sarah-ludwig
+Website: http://baby-to-go.com
+emailLinksArr: sarah@baby-to-go.com
+instagramLinksArr: http://instagram.com/baby_to_go
+instagramLinksArr: https://www.instagram.com/baby_to_go/
+websiteEmailsArr: sarah@baby-to-go.com
+Number: 914) 999-2229
+
+Name: maria-luisa-dangond
+Website: http://mariadangond.com
+instagramLinksArr: https://www.instagram.com/masterdoula/
+
+Name: katerine-collado
+Number: 3472572870
+
+Name: the-doula-room-tina-russo-danielle-deluty
+Website: https://thedoularoombk.com
+instagramLinksArr: https://www.instagram.com/thedoularoom/
+websiteEmailsArr: tina@thedoularoombk.com
+
+Name: ericka-louis
+
+Name: hannah-schiller
+Website: http://foliagebotanics.com
+instagramLinksArr: https://www.instagram.com/foliagebotanics/
+websiteEmailsArr: foliagebotanics@gmail.com
+Number: 4045423435
+
+Name: simone-colbert
+
+Name: madeline-jacobs
+Website: http://www.madelinejacobs.com
+instagramLinksArr: http://instagram.com/heldbymadeline
+websiteEmailsArr: JACOBS.MADELINE@GMAIL.COM
+
+Name: jillian-castoro
+Number: 9548644084
+
+Name: megan-rogers
+Website: https://milkandbirthdoula.com
+emailLinksArr: milkandbirthdoula@gmail.com
+instagramLinksArr: https://www.instagram.com/milkandbirth_/?igshid=YmMyMTA2M2Y%3D
+websiteEmailsArr: milkandbirthdoula@gmail.com
+Number: 716-220-8931
+
+Name: alexandra-estevez
+Website: https://www.aestevez.com
+emailLinksArr: alexe@warmitherapy.com?subject=Interested%20in%20Full%20Spectrum%20Doula%20Services
+emailLinksArr: alexe@warmitherapy.com?subject=Interested%20in%20Immigration%20Social%20Work%20Consulting%20
+emailLinksArr: alexe@warmitherapy.com
+emailLinksArr: alexe@warmitherpay.com
+websiteEmailsArr: alexe@warmitherapy.com
+websiteEmailsArr: alexe@warmitherpay.com
+Number: 929-560-4043
+
+Name: vickie-fernandez-wint
+Website: https://www.vickiewint.com
+Number: 718-490-5834
+
+Name: kesha-king
+Website: http://blessingofthewomb.com
+emailLinksArr: info@mysite.com
+websiteEmailsArr: blessingofthewomb@gmail.com
+Number: 646-387-1762
+
+Name: tara-withey
+Website: http://www.birthingbydesignwny.com
+Number: 716) 310-3926
+
+Name: kadian-simpson
+Number: 9172076937
+
+Name: laura-paskell-brown
+Website: https://www.doulaforyoursoul.com
+emailLinksArr: lpbdoula@gmail.com
+websiteEmailsArr: STATESLPBDOULA@GMAIL.COM
+
+Name: elizabeth-miller
+Website: http://www.mizliller.com
+websiteEmailsContactArr: liz@mizliller.com
+
+Name: angelina-rivera
+Website: https://instagram.com/sweetserenitydoula?r=nametag
+instagramLinksArr: https://about.instagram.com/
+instagramLinksArr: https://about.instagram.com/blog/
+instagramLinksArr: https://help.instagram.com/
+instagramLinksArr: https://l.instagram.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F261704639352628&e=AT0EIm-pSjldk9-g1rbXvnxDOOpz-X1GVn6_8xPR6FWD7QIwUdvg8bULtvEv5hX02YASOE8vMnUibVWoRo4AuFlMonGThEbCSIirLkv-B8W_2FEX-uK043EoMbVjWULBCEDsSPeS6xA_9-th2739QAyrXhU
+instagramLinksArr: /accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fsweetserenitydoula%2F%3Fr%3Dnametag&source=logged_out_half_sheet
+
+Name: liza-rebold
+Number: 2032919807
+
+Name: jessica-allen-hayek-cpd-ccce-clc
+Website: https://albanyfamilylifecenter.org
+instagramLinksArr: https://www.instagram.com/albanyfamilylifecenter
+websiteEmailsArr: info@albanyfamilylifecenter.org
+Number: 518-727-8219
+
+Name: jaye-mcclure
+Website: http://www.parkslopedoula.com
+websiteEmailsContactArr: jayebirdny@gmail.com
+Number: 917-603-6593
+
+Name: christine-gibson
+Website: http://queensdoula.com
+emailLinksArr: thequeensdoula@gmail.com
+instagramLinksArr: https://www.instagram.com/queensdoula/
+instagramLinksArr: https://www.instagram.com/p/CsFAa9FJA-T/
+instagramLinksArr: https://www.instagram.com/p/CrrEmPeJ6GR/
+instagramLinksArr: https://www.instagram.com/p/Cq1LqEQJ32Q/
+instagramLinksArr: https://www.instagram.com/p/Cqn-1r_Jp64/
+instagramLinksArr: https://www.instagram.com/p/CqdBBBtAmCA/
+instagramLinksArr: https://www.instagram.com/p/CqGAn9MAZ9Q/
+instagramLinksArr: https://www.instagram.com/p/Cp7raNQAHME/
+instagramLinksArr: https://www.instagram.com/p/Cp46KnUAfqD/
+instagramLinksArr: https://www.instagram.com/p/CpxKEVWAcrm/
+instagramLinksArr: https://www.instagram.com/p/CpqgB1npLGD/
+websiteEmailsContactArr: thequeensdoula@gmail.com
+
+Name: robin-gibson-douthit
+Website: http://robindouthit.com
+instagramLinksArr: https://www.instagram.com/flourishingbirthnyc/
+websiteEmailsContactArr: hello@flourishingbirth.com
+
+Name: destynee-raines
+Number: 3159448841
+
+Name: megan-rogers
+Website: https://milkandbirthdoula.com
+emailLinksArr: milkandbirthdoula@gmail.com
+instagramLinksArr: https://www.instagram.com/milkandbirth_/?igshid=YmMyMTA2M2Y%3D
+websiteEmailsArr: milkandbirthdoula@gmail.com
+Number: 716-220-8931
+
+Name: alexandra-estevez
+Website: https://www.aestevez.com
+emailLinksArr: alexe@warmitherapy.com?subject=Interested%20in%20Full%20Spectrum%20Doula%20Services
+emailLinksArr: alexe@warmitherapy.com?subject=Interested%20in%20Immigration%20Social%20Work%20Consulting%20
+emailLinksArr: alexe@warmitherapy.com
+emailLinksArr: alexe@warmitherpay.com
+websiteEmailsArr: alexe@warmitherapy.com
+websiteEmailsArr: alexe@warmitherpay.com
+Number: 929-560-4043
+
+Name: vickie-fernandez-wint
+Website: https://www.vickiewint.com
+Number: 718-490-5834
+
+Name: kesha-king
+Website: http://blessingofthewomb.com
+emailLinksArr: info@mysite.com
+websiteEmailsArr: blessingofthewomb@gmail.com
+Number: 646-387-1762
+
+Name: tara-withey
+Website: http://www.birthingbydesignwny.com
+Number: 716) 310-3926
+
+Name: kadian-simpson
+Number: 9172076937
+
+Name: laura-paskell-brown
+Website: https://www.doulaforyoursoul.com
+emailLinksArr: lpbdoula@gmail.com
+websiteEmailsArr: STATESLPBDOULA@GMAIL.COM
 

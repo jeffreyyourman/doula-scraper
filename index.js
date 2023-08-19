@@ -1,18 +1,17 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 // const proxyChain = require('proxy-chain');
-let delay = Math.floor(Math.random() * 10000) + 15000; 
-let smallDelay = Math.floor(Math.random() * 10000) + 10000; 
-let xsDelay = Math.floor(Math.random() * 10000) + 5000; 
+let delay = Math.floor(Math.random() * 10000) + 15000;
+let smallDelay = Math.floor(Math.random() * 10000) + 10000;
+let xsDelay = Math.floor(Math.random() * 10000) + 5000;
 
 (async () => {
-  const browser = await puppeteer.launch({ headless: 'new' });
+  const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
-  let pageNum = 11;
+  let pageNum = 14;
   let startWithProfile = true;
-  let state = "NY"; //NJ:1,  NY:11, PA, CT, TX, CA, FL, CO, GA, IL, OR, WA
-  // await page.goto("https://doulamatch.net/list/birth/ny/1", {
-  // await page.goto("https://doulamatch.net/list/birth/nj/1", {
+  let state = "CA"; //NJ:DONE,  NY:DONE, PA:DONE, CT:DONE, TX, CA:DONE, FL, CO, GA, IL, OR, WA
+
   await page.goto(`https://doulamatch.net/list/birth/${state}/${pageNum}`, {
     waitUntil: "networkidle0",
   });
@@ -183,9 +182,7 @@ let xsDelay = Math.floor(Math.random() * 10000) + 5000;
                   const absoluteURL = new URL(href, baseURL).href;
                   console.log("before  contact page", absoluteURL);
 
-                  await new Promise((resolve) =>
-                    setTimeout(resolve, smallDelay)
-                  );
+                  await new Promise((resolve) => setTimeout(resolve, 1100));
                   console.log("went to contacsmallDelaye");
 
                   try {
@@ -262,7 +259,7 @@ let xsDelay = Math.floor(Math.random() * 10000) + 5000;
               }
             }
 
-            await new Promise((resolve) => setTimeout(resolve, smallDelay));
+            await new Promise((resolve) => setTimeout(resolve, 1500));
 
             // Return to the original profile
             await page.goto(profile, { waitUntil: "networkidle0" });
@@ -318,7 +315,7 @@ let xsDelay = Math.floor(Math.random() * 10000) + 5000;
         // }
       }
     }
-
+    // .pagination.search-pager .page-item:last-child.disabled"
     let nextPageLink = await page
       .$eval(".pagination.search-pager .page-item:last-child a", (a) => a.href)
       .catch(() => false);
